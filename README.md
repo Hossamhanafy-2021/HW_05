@@ -5,3 +5,5 @@ Steps to reproduce (windows 10, VScode):
 4- run: "pip install -r requirements.txt"
 5- press on the app.py and run the project from the run button on the left of vs code and chose flask
 # HW_05
+# HW_05
+# HW_05
